@@ -1,22 +1,33 @@
 # Agenvia de viajes
-Pagina de agencia de viajes desarrollada con las siguientes tecnologias: 
+Pagina de agencia de viajes en la que renderizamos diferentes paginas donde se muestra toda la información que ofrece esta agencia.
 
-## Backend  
+## Principios aplicados
+
+### MVC
+El proyecto fue desarrollado siguiendo el patro MVC para una mejor estructura y una mayor escalabilidad.  
+
+### Variables de entorno
+Cuenta con variables de entorno para proteger informacion sensible  
+### Responsive
+Es responsive gracias a bootstrap.  
+
+## Tecnologías
+### Backend  
+Para poder crear un router con sus respectivos endpoints se ocuparon:  
 -Node  
 -Express  
 
-## Front  
+### Front  
+Para poder renderizar la informacion que nos devuelven los endpoints y darle estilos ocupamos:  
 -Pug  
--Css  
 -Bootstrap
 
-## Base de datos  
+### Base de datos  
+Para almacenar la informacion ocupamos:  
 -Mysql  
 
-## Deployment  
+### Deployment  
 -Heroku  
-
-El proyecto fue desarrollado siguiendo el patro MVC para una mejor estructura y una mayor escalabilidad, cuenta con variables de entorno para proteger informacion sensible y es responsive gracias a bootstrap.  
 
 ## Deploy:  
 [Agencia de viajes](https://agencia-viajes.herokuapp.com/)  
