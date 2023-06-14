@@ -22,9 +22,10 @@ Para poder renderizar la informacion que nos devuelven los endpoints y darle est
 -Pug  
 -Bootstrap
 
-### Base de datos  
+### Base de datos y ORM  
 Para almacenar la informacion ocupamos:  
 -Mysql  
+-Sequelize  
 
 ### Deployment  
 -Heroku  
