@@ -1,24 +1,26 @@
 # Agenvia de viajes
 Pagina de agencia de viajes desarrollada con las siguientes tecnologias: 
 
-Backend  
+## Backend  
 -Node  
 -Express  
 
-Front  
+## Front  
 -Pug  
 -Css  
 -Bootstrap
 
-Base de datos  
+## Base de datos  
 -Mysql  
 
-Deployment  
+## Deployment  
 -Heroku  
 
 El proyecto fue desarrollado siguiendo el patro MVC para una mejor estructura y una mayor escalabilidad, cuenta con variables de entorno para proteger informacion sensible y es responsive gracias a bootstrap.  
 
-Deploy:  
-https://agencia-viajes.herokuapp.com/  
+## Deploy:  
+[Agencia de viajes](https://agencia-viajes.herokuapp.com/)  
+
+
 
 ![Node y express](https://www.comaporter.com/wp-content/uploads/2021/05/curso-gratis-backend-node-js-express.jpg)  
